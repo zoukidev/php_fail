@@ -1,0 +1,1 @@
+zouki';UPDATE accounts SET points = 0 WHERE username='zouki
